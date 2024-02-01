@@ -1,3 +1,42 @@
+html {
+  background: url("public/harry-potter.webp") no-repeat fixed;
+  padding: 10% 20px 30px 40px;
+}
 
+body {
+  background-color: white;
+  height: 100vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  padding-right: 20px;
+}
+nav a {
+  padding: 3px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  min-height: calc(80vh - 50px);
+}
+
+footer svg {
+  font-size: 50px;
+}
+
+.active {
+  border-left: #646cff 1px solid;
+  border-right: #646cff 1px solid;
+}
 
 /*# sourceMappingURL=App.css.map */
