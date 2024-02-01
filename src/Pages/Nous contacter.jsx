@@ -3,7 +3,6 @@ import "../css/Nous contacter.css"
 import {useForm} from "react-hook-form";
 
 const NousContacter = () => {
-    const [valid, setValid] = useState(false)
     const {
         register,
         handleSubmit,
@@ -30,11 +29,7 @@ const NousContacter = () => {
                     width: "100%"
                 }} rows={10}></textarea><br/>
 
-                <input type="submit" value="Envoyer" onClick={(e) => {
-                    if (!valid) {
-                        e.preventDefault()
-                    }
-                }}/>
+                <input type="submit" value="Envoyer"/>
 
 
             </form>
