@@ -31,7 +31,7 @@ const NousContacter = () => {
                 <input {...register("name")} type="text" name="name" placeholder="Votre nom"/><br/>
 
                 <label htmlFor="mail">Mail</label><br/>
-                <input {...register("email", {required: true})} type="mail" name="email" placeholder="Adresse mail"/><br/>
+                <input {...register("email", {required: true})} type="email" name="email" placeholder="Adresse mail" required/><br/>
                 <br/>
 
                 <label htmlFor="subject">Sujet</label><br/>
