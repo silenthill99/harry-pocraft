@@ -54,7 +54,35 @@ const Règlement = () => {
                                 le tchat.
                             </p>
                         </li>
-                        <li></li>
+                        <li>
+                            <h3>Flood</h3>
+                            <p>
+                                Le flood est la répétition successive d'un seul et même caracère. Cela est également
+                                interdit sur le serveur et c'est considéré comme de la pollution du tchat.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Spam</h3>
+                            <p>
+                                Tout comme le flood, le spam est considéré comme de la pollution du tchat donc c'est
+                                aussi interdit.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Mentions</h3>
+                            <p>
+                                Sauf en cas de mention contraire, merci de ne pas mentionner le staff. Néanmoins vous
+                                pouvez toujours contacter le staff par message privé.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Pub</h3>
+                            <p>
+                                Que ce soit par message privé ou publiquement sur le serveur, il est interdit de faire
+                                de la pub sur le serveur. Nous tolérerons malgré tout les pubs dans vos pseudos, vos
+                                descriptions ou biographies.
+                            </p>
+                        </li>
                     </ol>
                 </li>
             </ol>
