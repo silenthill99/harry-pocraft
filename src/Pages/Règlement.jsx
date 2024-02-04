@@ -122,7 +122,10 @@ const Règlement = () => {
                                 lieu de mort.
                             </p>
                         </li>
-                        <li></li>
+                        <li>
+                            <h3>MétaGaming</h3>
+                            <p>Il est interdit d'utiliser dans un contexte RP des éléments obtenus dans un contexte HRP.</p>
+                        </li>
                     </ol>
                 </li>
             </ol>
