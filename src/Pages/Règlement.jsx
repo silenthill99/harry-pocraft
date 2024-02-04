@@ -126,6 +126,15 @@ const Règlement = () => {
                             <h3>MétaGaming</h3>
                             <p>Il est interdit d'utiliser dans un contexte RP des éléments obtenus dans un contexte HRP.</p>
                         </li>
+                        <li>
+                            <h3>Les tchats</h3>
+                            <p>
+                                Comme sur la plupart des serveurs RôlePlay, plusieurs tchat sont mis à disposition. Le
+                                tchat HRP (avec la commande /hrp) pour parler HRP, le tchat RP vocal (avec la commande
+                                /audio), enfin le tchat RP écrit, surtout présents pour les sourds et muets ou ceux qui
+                                n'ont pas de micro. Merci de les utiliser à bon escient.
+                            </p>
+                        </li>
                     </ol>
                 </li>
             </ol>
