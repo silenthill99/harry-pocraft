@@ -124,7 +124,8 @@ const Règlement = () => {
                         </li>
                         <li>
                             <h3>MétaGaming</h3>
-                            <p>Il est interdit d'utiliser dans un contexte RP des éléments obtenus dans un contexte HRP.</p>
+                            <p>Il est interdit d'utiliser dans un contexte RP des éléments obtenus dans un contexte
+                                HRP.</p>
                         </li>
                         <li>
                             <h3>Les tchats</h3>
@@ -133,6 +134,27 @@ const Règlement = () => {
                                 tchat HRP (avec la commande /hrp) pour parler HRP, le tchat RP vocal (avec la commande
                                 /audio), enfin le tchat RP écrit, surtout présents pour les sourds et muets ou ceux qui
                                 n'ont pas de micro. Merci de les utiliser à bon escient.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Les sortilèges impardonnables</h3>
+                            <p>
+                                Les 3 sortilèges impardonnables vous seront accessibles. Néanmoins, leurs utilisations
+                                est très règlementée. <br/><br/>
+                                <ul>
+                                    <li>
+                                        Les sorciers de 1er cycle (de 1ère à 6ème année) ne devront les utiliser sous
+                                        aucun prétexte
+                                    </li>
+                                    <li>
+                                        Leur utilisation doit être justifiée
+                                    </li>
+                                    <li>
+                                        Les "bons" sorciers n'auront le droit de les uriliser qu'en cas d'extrême
+                                        nécessité , ou durant un combat contre des mages noirs.
+                                    </li>
+                                </ul><br/>
+                                Le non-respect d'une de ces 3 règles entraînera de lourdes sanctions.
                             </p>
                         </li>
                     </ol>
