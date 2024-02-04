@@ -15,27 +15,22 @@ const Règlement = () => {
                             <h3>Pseudo et photo de profil</h3>
                             <p>
                                 Tout pseudo et/ou photo de profil à caractère discriminant, pornographique, terroriste
-                                ou
-                                encore
-                                politique sont strictement interdits
+                                ou encore politique sont strictement interdits
                             </p>
                         </li>
                         <li>
                             <h3>Discrimination</h3>
                             <p>
                                 La discrimination est strictement interdite, un bannissement définitif sera prononcé, de
-                                façon
-                                non négociable. Un dépot de plainte pourra même être envisagé par le staff de
-                                l'infrastructure à
-                                la victime envers la personne concernée
+                                façon non négociable. Un dépot de plainte pourra même être envisagé par le staff de
+                                l'infrastructure à la victime envers la personne concernée
                             </p>
                         </li>
                         <li>
                             <h3>Langage</h3>
                             <p>
                                 Que ce soit dans un salon textuel ou vocal, merci de tenir un language correct. Les
-                                sanctions
-                                pourront aller d'un simple warn jusqu'à un ban temporaire.
+                                sanctions pourront aller d'un simple warn jusqu'à un ban temporaire.
                             </p>
                         </li>
                         <li>
@@ -83,6 +78,51 @@ const Règlement = () => {
                                 descriptions ou biographies.
                             </p>
                         </li>
+                        <li>
+                            <h3>RolePlay</h3>
+                            <p>
+                                Bien que Harry PoCraft soit un serveur RP, il est interdit de parler RP sur le serveur.
+                            </p>
+                        </li>
+                    </ol>
+                </li>
+                <li id="in-game">
+                    <h2><u>Règlement en jeu</u></h2>
+                    <ol>
+                        <li>
+                            <h3>NoFearRP</h3>
+                            <p>
+                                Cette règle concerne la notion de la peur. Si un moldu est braqué par un mage noir,
+                                il devra faire tout ce qu'il lui est demandé.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>PowerGaming / NoPainRP</h3>
+                            <p>
+                                Durant votre aventure, vous serez amenés à recevoir des sortilèges consistat à vous
+                                attaquer, que ce soit un simple sortilège de combat (Stupéfix), ou d'autres sortilèges
+                                consistant à vous faire plus de mal (endoloris). Dans ce cas, vous devrez avoir mal et
+                                ne pas pouvoir faire tout et n'importe quoi, dan un laps de temps plus ou moins long.
+                                Cette règle est aussi valable lorsque vous êtes blessé, vous n'aurez pas le droit de
+                                sauter ou courir.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>NLR</h3>
+                            <p>
+                                Le New Life Rules (NLR) esst la règle de la nouvelle vie. Dès lors que vou mourrez, vous
+                                devrez incarner un nouveau personnage et avoir tout oublié de votre vie précédente.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>RTZ</h3>
+                            <p>
+                                Le Return To Zone (RTZ) est une règle consistant à ne pas retourner sur son lieu de mort
+                                pendant un certain temps. Ici, il faut attendre 10 minutes avant de retourner sur son
+                                lieu de mort.
+                            </p>
+                        </li>
+                        <li></li>
                     </ol>
                 </li>
             </ol>
