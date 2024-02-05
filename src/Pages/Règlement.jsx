@@ -82,7 +82,8 @@ const Reglement = () => {
                         <li>
                             <h3>RolePlay</h3>
                             <p>
-                                Bien que Harry PoCraft soit un serveur RP, il est interdit de parler RP sur le serveur discord.
+                                Bien que Harry PoCraft soit un serveur RP, il est interdit de parler RP sur le serveur
+                                discord.
                             </p>
                         </li>
                     </ol>
@@ -166,6 +167,24 @@ const Reglement = () => {
                             <p>
                                 Toutes formes de tcheat est formellement interdite, et entrainera des sanctions pouvant
                                 aller d'un bannissement d'un mois jusqu'à un bannissement définitif.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>La magie devant les moldus</h3>
+                            <p>
+                                L'usage de la magie devant les moldus est toloré mais le ministère se réserve le droit
+                                de vous condamner. Néanmoins, que vous soyez sorcier de 1er cycle ou non, il est
+                                autorisé de faire usage de la magie devant un moldu si sa vie est menacée. Néanmoins, un
+                                sortilège d'amnésie devralui être pratiqué juste après afin d'avoir aucun souvenirs sur
+                                l'incident. L'oubli de ce dernier sera sanctionné pour NoRP.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Les déconnections</h3>
+                            <p>
+                                En cas de déconnection lors d'une scène RP ou d'un entretien avec le staff, merci de le
+                                justifier au quel cas des sanctions pouvant aller d'un simple ban jusqu'à un bannissement
+                                de 5 jours.
                             </p>
                         </li>
                     </ol>
