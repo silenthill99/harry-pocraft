@@ -1,6 +1,7 @@
-import React from 'react';
 import "../css/Règlement.css"
-const Règlement = () => {
+
+const Reglement = () => {
+
     return (
         <main className="reglement">
             <h1><u>Règlement intérieur</u></h1>
@@ -164,4 +165,4 @@ const Règlement = () => {
     );
 };
 
-export default Règlement;
+export default Reglement;
