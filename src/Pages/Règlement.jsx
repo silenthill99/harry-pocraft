@@ -125,7 +125,7 @@ const Reglement = () => {
                         <li>
                             <h3>NLR</h3>
                             <p>
-                                Le New Life Rules (NLR) esst la règle de la nouvelle vie. Dès lors que vou mourrez, vous
+                                Le New Life Rules (NLR) esst la règle de la nouvelle vie. Dès lors que vous mourrez, vous
                                 devrez incarner un nouveau personnage et avoir tout oublié de votre vie précédente.
                             </p>
                         </li>
