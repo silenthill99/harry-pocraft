@@ -11,6 +11,7 @@ const NousContacter = () => {
     } = useForm()
 
     const onSubmitForm = (data) => {
+        alert('Votre message a bien été envoyé et sera traité dans les plus brefs délais')
         emailjs.send(
             'service_l4b05zp',
             'template_y8y10ur',
@@ -49,31 +50,6 @@ const NousContacter = () => {
             </form>
         </main>
     )
-    // const {
-    //     register,
-    //     handleSubmit,
-    //     watch,
-    //     formState: { errors },
-    // } = useForm()
-    //
-    // const onSubmit = (data) => console.log(data)
-    //
-    // console.log(watch("example")) // watch input value by passing the name of it
-    //
-    // return (
-    //     /* "handleSubmit" will validate your inputs before invoking "onSubmit" */
-    //     <form onSubmit={handleSubmit(onSubmit)}>
-    //         {/* register your input into the hook by invoking the "register" function */}
-    //         <input defaultValue="test" {...register("example")} />
-    //
-    //         {/* include validation with required or other standard HTML validation rules */}
-    //         <input {...register("exampleRequired", { required: true })} />
-    //         {/* errors will return when field validation fails  */}
-    //         {errors.exampleRequired && <span>This field is required</span>}
-    //
-    //         <input type="submit" />
-    //     </form>
-    // )
 };
 
 
