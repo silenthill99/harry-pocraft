@@ -151,7 +151,7 @@ const Reglement = () => {
                                         Leur utilisation doit être justifiée
                                     </li>
                                     <li>
-                                        Les "bons" sorciers n'auront le droit de les uriliser qu'en cas d'extrême
+                                        Les "bons" sorciers n'auront le droit de les utiliser qu'en cas d'extrême
                                         nécessité , ou durant un combat contre des mages noirs.
                                     </li>
                                 </ul><br/>
