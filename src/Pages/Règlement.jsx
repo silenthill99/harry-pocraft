@@ -82,7 +82,7 @@ const Reglement = () => {
                         <li>
                             <h3>RolePlay</h3>
                             <p>
-                                Bien que Harry PoCraft soit un serveur RP, il est interdit de parler RP sur le serveur.
+                                Bien que Harry PoCraft soit un serveur RP, il est interdit de parler RP sur le serveur discord.
                             </p>
                         </li>
                     </ol>
