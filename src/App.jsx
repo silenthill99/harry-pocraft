@@ -5,6 +5,7 @@ import { FaDiscord } from "react-icons/fa";
 import {Portfolio} from "./Pages/Portfolio.jsx";
 import NousContacter from "./Pages/Nous contacter.jsx";
 import Reglement from "./Pages/Règlement.jsx";
+import { SiFandom } from "react-icons/si";
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
         </Routes>
         <footer>
             <a href="https://discord.gg/c5sUqgQre2" target="_blank" rel="noreferrer"><FaDiscord /></a>
+            <a href="https://harrypotter.fandom.com/fr/wiki/Wiki_Harry_Potter" target="_blank" rel="noreferrer"><SiFandom/></a>
         </footer>
     </>
   )
