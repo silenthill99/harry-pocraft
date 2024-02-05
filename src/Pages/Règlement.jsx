@@ -53,7 +53,7 @@ const Reglement = () => {
                         <li>
                             <h3>Flood</h3>
                             <p>
-                                Le flood est la répétition successive d'un seul et même caracère. Cela est également
+                                Le flood est la répétition successive d'un seul et même caractère. Cela est également
                                 interdit sur le serveur et c'est considéré comme de la pollution du tchat.
                             </p>
                         </li>
