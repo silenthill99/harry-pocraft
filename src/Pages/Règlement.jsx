@@ -192,7 +192,7 @@ const Reglement = () => {
                             <h3>La magie devant les moldus</h3>
                             <p>
                                 {/* eslint-disable-next-line react/no-unescaped-entities */}
-                                L'usage de la magie devant les moldus est toloré mais le ministère se réserve le droit
+                                L'usage de la magie devant les moldus est toléré mais le ministère se réserve le droit
                                 de vous condamner. Néanmoins, que vous soyez sorcier de 1er cycle ou non, il est
                                 autorisé de faire usage de la magie devant un moldu si sa vie est menacée. Néanmoins, un
                                 {/* eslint-disable-next-line react/no-unescaped-entities */}
