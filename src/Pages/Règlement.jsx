@@ -100,7 +100,7 @@ const Reglement = () => {
                         <li>
                             <h3>PowerGaming / NoPainRP</h3>
                             <p>
-                                Durant votre aventure, vous serez amenés à recevoir des sortilèges consistat à vous
+                                Durant votre aventure, vous serez amenés à recevoir des sortilèges consistant à vous
                                 attaquer, que ce soit un simple sortilège de combat (Stupéfix), ou d'autres sortilèges
                                 consistant à vous faire plus de mal (endoloris). Dans ce cas, vous devrez avoir mal et
                                 ne pas pouvoir faire tout et n'importe quoi, dan un laps de temps plus ou moins long.
