@@ -134,7 +134,8 @@ const Reglement = () => {
                                 Comme sur la plupart des serveurs RôlePlay, plusieurs tchat sont mis à disposition. Le
                                 tchat HRP (avec la commande /hrp) pour parler HRP, le tchat RP vocal (avec la commande
                                 /audio), enfin le tchat RP écrit, surtout présents pour les sourds et muets ou ceux qui
-                                n'ont pas de micro. Merci de les utiliser à bon escient.
+                                n'ont pas de micro. Merci de les utiliser à bon escient. <br/>
+                                Nous précisons que, comme sur le serveur discord, le spam et le flood sont interdits.
                             </p>
                         </li>
                         <li>
@@ -152,7 +153,7 @@ const Reglement = () => {
                                     </li>
                                     <li>
                                         Les "bons" sorciers n'auront le droit de les utiliser qu'en cas d'extrême
-                                        nécessité , ou durant un combat contre des mages noirs.
+                                        nécessité, ou durant un combat contre des mages noirs.
                                     </li>
                                 </ul><br/>
                                 Le non-respect d'une de ces 3 règles entraînera de lourdes sanctions. La mauvaise
