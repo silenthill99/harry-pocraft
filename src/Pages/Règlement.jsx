@@ -155,7 +155,16 @@ const Reglement = () => {
                                         nécessité , ou durant un combat contre des mages noirs.
                                     </li>
                                 </ul><br/>
-                                Le non-respect d'une de ces 3 règles entraînera de lourdes sanctions.
+                                Le non-respect d'une de ces 3 règles entraînera de lourdes sanctions. La mauvaise
+                                utilisation du sort "Avada Kedavra" pourra même être considérée comme du FreeKill, ce
+                                qui est bannissable pendant une longue durée.
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Le cheat</h3>
+                            <p>
+                                Toutes formes de tcheat est formellement interdite, et entrainera des sanctions pouvant
+                                aller d'un bannissement d'un mois jusqu'à un bannissement définitif.
                             </p>
                         </li>
                     </ol>
