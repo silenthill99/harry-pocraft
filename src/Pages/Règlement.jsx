@@ -189,6 +189,18 @@ const Reglement = () => {
                                 de 5 jours.
                             </p>
                         </li>
+                        <li>
+                            <h3>Les skins  et les pseudos</h3>
+                            <p>
+                                Comme sur le discord, les skins et pseudos à caractère pornographique, terroriste,
+                                discriminatoires ou politiques sont totalement interdits et bannissables pour une durée
+                                de minimum 1 mois.
+                            </p>
+                            <p>
+                                Nous vous demanderons d'ailleurs de bien vouloir porter un skin correspondant à votre
+                                situation dans le RP.
+                            </p>
+                        </li>
                     </ol>
                 </li>
             </ol>
