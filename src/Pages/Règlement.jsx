@@ -204,6 +204,14 @@ const Reglement = () => {
                     </ol>
                 </li>
             </ol>
+            <p>
+                Le règlement peut être amené à être modifié, merci de venir le consulter régulièrement.
+            </p>
+            <p>
+                Il est fort probable que certains joueurs aient des circonstances aggravantes, tandis que d'autres aient
+                droit à des circonstances atténuantes.<br/>
+                Merci de votre compréhension
+            </p>
         </main>
     );
 };
