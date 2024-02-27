@@ -112,12 +112,9 @@ const Reglement = () => {
                             <h3>PowerGaming / NoPainRP</h3>
                             <p>
                                 Durant votre aventure, vous serez amenés à recevoir des sortilèges consistant à vous
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 attaquer, que ce soit un simple sortilège de combat (Stupéfix), ou d'autres sortilèges
                                 consistant à vous faire plus de mal (endoloris). Dans ce cas, vous devrez avoir mal et
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
-                                ne pas pouvoir faire tout et n'importe quoi, dan un laps de temps plus ou moins long.
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
+                                ne pas pouvoir faire tout et n'importe quoi, dans un laps de temps plus ou moins long.
                                 Cette règle est aussi valable lorsque vous êtes blessé, vous n'aurez pas le droit de
                                 sauter ou courir.
                             </p>
