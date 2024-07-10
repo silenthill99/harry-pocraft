@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import "../css/Règlement.css"
 
 const Reglement = () => {
@@ -6,7 +7,6 @@ const Reglement = () => {
         <main className="reglement">
             <h1><u>Règlement intérieur</u></h1>
             <p>Le règlement intérieur est considéré comme lu et approuvé dès votre 1ère connections sur les serveurs de
-                {/* eslint-disable-next-line react/no-unescaped-entities */}
                 l'infrastructure, que ce soit sur le serveur de jeu ou sur le discord</p>
 
             <ol>
@@ -25,7 +25,6 @@ const Reglement = () => {
                             <p>
                                 La discrimination est strictement interdite, un bannissement définitif sera prononcé, de
                                 façon non négociable. Un dépot de plainte pourra même être envisagé par le staff de
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 l'infrastructure à la victime envers la personne concernée
                             </p>
                         </li>
@@ -33,24 +32,20 @@ const Reglement = () => {
                             <h3>Langage</h3>
                             <p>
                                 Que ce soit dans un salon textuel ou vocal, merci de tenir un language correct. Les
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 sanctions pourront aller d'un simple warn jusqu'à un ban temporaire.
                             </p>
                         </li>
                         <li>
                             <h3>Humour</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 L'humour de ce serveur est à utiliser avec modération. N'oubliez pas que nous sommes sur
                                 un serveur communaitaire, vous ne connaissez donc pas forcément ceux qui se trouvent en
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 face de vous. Par conséquent, toute forme d'humour noire est à proscrire.
                             </p>
                         </li>
                         <li>
                             <h3>Conflits</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 En cas de mésentente avec d'autres joueurs, merci de ne pas régler vos différents en
                                 public. Vos histoires ne concernent pas les autres, cela peut même déranger et polluer
                                 le tchat.
@@ -59,16 +54,13 @@ const Reglement = () => {
                         <li>
                             <h3>Flood</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 Le flood est la répétition successive d'un seul et même caractère. Cela est également
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 interdit sur le serveur et c'est considéré comme de la pollution du tchat.
                             </p>
                         </li>
                         <li>
                             <h3>Spam</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 Tout comme le flood, le spam est considéré comme de la pollution du tchat donc c'est
                                 aussi interdit.
                             </p>
@@ -104,7 +96,6 @@ const Reglement = () => {
                             <h3>NoFearRP</h3>
                             <p>
                                 Cette règle concerne la notion de la peur. Si un moldu est braqué par un mage noir,
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 il devra faire tout ce qu'il lui est demandé.
                             </p>
                         </li>
@@ -112,12 +103,9 @@ const Reglement = () => {
                             <h3>PowerGaming / NoPainRP</h3>
                             <p>
                                 Durant votre aventure, vous serez amenés à recevoir des sortilèges consistant à vous
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 attaquer, que ce soit un simple sortilège de combat (Stupéfix), ou d'autres sortilèges
                                 consistant à vous faire plus de mal (endoloris). Dans ce cas, vous devrez avoir mal et
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
-                                ne pas pouvoir faire tout et n'importe quoi, dan un laps de temps plus ou moins long.
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
+                                ne pas pouvoir faire tout et n'importe quoi, dans un laps de temps plus ou moins long.
                                 Cette règle est aussi valable lorsque vous êtes blessé, vous n'aurez pas le droit de
                                 sauter ou courir.
                             </p>
@@ -125,7 +113,7 @@ const Reglement = () => {
                         <li>
                             <h3>NLR</h3>
                             <p>
-                                Le New Life Rules (NLR) esst la règle de la nouvelle vie. Dès lors que vous mourrez, vous
+                                Le New Life Rules (NLR) est la règle de la nouvelle vie. Dès lors que vous mourrez, vous
                                 devrez incarner un nouveau personnage et avoir tout oublié de votre vie précédente.
                             </p>
                         </li>
@@ -139,7 +127,6 @@ const Reglement = () => {
                         </li>
                         <li>
                             <h3>MétaGaming</h3>
-                            {/* eslint-disable-next-line react/no-unescaped-entities */}
                             <p>Il est interdit d'utiliser dans un contexte RP des éléments obtenus dans un contexte
                                 HRP.</p>
                         </li>
@@ -149,7 +136,6 @@ const Reglement = () => {
                                 Comme sur la plupart des serveurs RôlePlay, plusieurs tchat sont mis à disposition. Le
                                 tchat HRP (avec la commande /hrp) pour parler HRP, le tchat RP vocal (avec la commande
                                 /audio), enfin le tchat RP écrit, surtout présents pour les sourds et muets ou ceux qui
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 n'ont pas de micro. Merci de les utiliser à bon escient. <br/>
                                 Nous précisons que, comme sur le serveur discord, le spam et le flood sont interdits.
                             </p>
@@ -168,14 +154,12 @@ const Reglement = () => {
                                         Leur utilisation doit être justifiée
                                     </li>
                                     <li>
-                                        {/* eslint-disable-next-line react/no-unescaped-entities */}
+                                        
                                         Les "bons" sorciers n'auront le droit de les utiliser qu'en cas d'extrême
                                         nécessité, ou durant un combat contre des mages noirs.
                                     </li>
                                 </ul><br/>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 Le non-respect d'une de ces 3 règles entraînera de lourdes sanctions. La mauvaise
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 utilisation du sort "Avada Kedavra" pourra même être considérée comme du FreeKill, ce
                                 qui est bannissable pendant une longue durée.
                             </p>
@@ -184,29 +168,23 @@ const Reglement = () => {
                             <h3>Le cheat</h3>
                             <p>
                                 Toutes formes de tcheat est formellement interdite, et entrainera des sanctions pouvant
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 aller d'un bannissement d'un mois jusqu'à un bannissement définitif.
                             </p>
                         </li>
                         <li>
                             <h3>La magie devant les moldus</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 L'usage de la magie devant les moldus est toléré mais le ministère se réserve le droit
                                 de vous condamner. Néanmoins, que vous soyez sorcier de 1er cycle ou non, il est
                                 autorisé de faire usage de la magie devant un moldu si sa vie est menacée. Néanmoins, un
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 sortilège d'amnésie devralui être pratiqué juste après afin d'avoir aucun souvenirs sur
-                                {/* eslint-disable-next-line */}
                                 l'incident. L'oubli de ce dernier sera sanctionné pour NoRP.
                             </p>
                         </li>
                         <li>
                             <h3>Les déconnections</h3>
                             <p>
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 En cas de déconnection lors d'une scène RP ou d'un entretien avec le staff, merci de le
-                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 justifier au quel cas des sanctions pouvant aller d'un simple ban jusqu'à un bannissement
                                 de 5 jours.
                             </p>
