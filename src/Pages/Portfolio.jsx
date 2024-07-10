@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import "../css/Portfolio.css"
 
 export const Portfolio = () => {
