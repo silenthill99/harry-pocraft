@@ -1,7 +1,11 @@
-import React from 'react';
 import PropTypes from 'prop-types';
 
-const YoutubeVideos = props => {
+type YoutubeVideoProps = {
+    id: string,
+    name: string
+}
+
+const YoutubeVideos = (props: YoutubeVideoProps) => {
     // noinspection XmlDeprecatedElement
     return (
         <div>
