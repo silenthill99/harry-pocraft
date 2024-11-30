@@ -1,20 +1,19 @@
 /* eslint-disable react/no-unescaped-entities */
-import "../css/Règlement.css"
 
 const Reglement = () => {
 
     return (
-        <main className="reglement">
+        <main className={"container mx-auto"}>
             <h1><u>Règlement intérieur</u></h1>
             <p>Le règlement intérieur est considéré comme lu et approuvé dès votre 1ère connections sur les serveurs de
                 l'infrastructure, que ce soit sur le serveur de jeu ou sur le discord</p>
 
-            <ol>
-                <li id="discord">
+            <ol className={"list-decimal"}>
+                <li>
                     <h2><u>Règlement Discord</u></h2>
-                    <ol>
+                    <ol className={"list-decimal p-5"}>
                         <li>
-                            <h3>Pseudo et photo de profil</h3>
+                            <h3 className={"text-2xl"}>Pseudo et photo de profil</h3>
                             <p>
                                 Tout pseudo et/ou photo de profil à caractère discriminant, pornographique, terroriste
                                 ou encore politique sont strictement interdits

@@ -1,16 +1,21 @@
-import "../css/Nous contacter.css"
-import {useForm} from "react-hook-form";
+import {SubmitHandler, useForm} from "react-hook-form";
 import emailjs from "@emailjs/browser"
+
+type Values = {
+    subject: string,
+    email: string,
+    message: string,
+    name: string
+}
 
 const NousContacter = () => {
     const {
         register,
         handleSubmit,
-        watch,
         formState: { errors },
-    } = useForm()
+    } = useForm<Values>()
 
-    const onSubmitForm = (data) => {
+    const onSubmitForm: SubmitHandler<Values> = (data) => {
         alert('Votre message a bien été envoyé et sera traité dans les plus brefs délais')
         emailjs.send(
             'service_l4b05zp',
@@ -26,7 +31,7 @@ const NousContacter = () => {
     }
 
     return (
-        <main className="contacts">
+        <main className="container mx-auto my-5 min-h-screen">
             <form onSubmit={handleSubmit(onSubmitForm)}>
                 <label htmlFor="name">Nom</label><br/>
                 <input {...register("name")} type="text" name="name" placeholder="Votre nom"/><br/>
@@ -39,13 +44,8 @@ const NousContacter = () => {
                 <input {...register("subject")} type="text" name="subject" placeholder="Sujet de votre demande"/><br/><br/>
 
                 <label htmlFor="message">Message</label><br/>
-                <textarea {...register("message")} name="message" placeholder="Votre message" style={{
-                    resize: "none",
-                    width: "100%"
-                }} rows={10}></textarea><br/>
-                {errors.email && <p style={{
-                    color: "red"
-                }}>Email recquis</p>}
+                <textarea {...register("message")} name="message" placeholder="Votre message" className={"w-full resize-none"} rows={10}></textarea><br/>
+                {errors.email && <p className={"text-red-500"}>Email recquis</p>}
                 <input type="submit" value="Envoyer"/>
             </form>
         </main>
